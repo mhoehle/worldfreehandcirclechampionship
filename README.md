@@ -1,4 +1,5 @@
 # worldfreehandcirclechampionship
 This site contains all materials for the 2nd World Freehand Circle Championship (online edition!)
 
-Stay tuned for content and call for contribution.
+History:
+* Round 1 starting Jan 2019: Beta testers of "The Perfect Circle!" app
